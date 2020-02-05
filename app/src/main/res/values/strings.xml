@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MateriaolDesign</string>
+    <string name="app_name">MaterialDesign</string>
+    <string name="yes_button">YES Button</string>
+    <string name="no_button">NO Button</string>
+    <string name="ok_button">OK Button</string>
+    <string name="ikona_view">Ikona view</string>
 </resources>
